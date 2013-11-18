@@ -1,0 +1,1 @@
+A lightweight translation utility built in Java that enables you to translate sentences or words from and to 63 languages worldwide. 
