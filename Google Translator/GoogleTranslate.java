@@ -386,9 +386,7 @@ public class GoogleTranslate extends javax.swing.JFrame implements Runnable{
         flag3 = true;
     }                                        
 
-    private void jComboBox1ActionPerformed(java.awt.event.ActionEvent evt) {                                           
-
-    }                                          
+                                             
 
     private void jComboBox1ItemStateChanged(java.awt.event.ItemEvent evt) {                                            
         switch (jComboBox1.getSelectedIndex()) {
@@ -813,17 +811,7 @@ public class GoogleTranslate extends javax.swing.JFrame implements Runnable{
         JOptionPane.showMessageDialog(null, "Created by Rajaselvan\nr4j4531v4n@gmail.com", "About", JOptionPane.INFORMATION_MESSAGE);
     }                                   
 
-    private void jButton3MousePressed(java.awt.event.MouseEvent evt) {                                      
-
-    }                                     
-
-    private void jButton3MouseReleased(java.awt.event.MouseEvent evt) {                                       
-
-    }                                      
-
-    private void jComboBox2ActionPerformed(java.awt.event.ActionEvent evt) {                                           
-        // TODO add your handling code here:
-    }                                          
+                                         
 
     private void jMenuItem2ActionPerformed(java.awt.event.ActionEvent evt) {                                           
         dispose();
